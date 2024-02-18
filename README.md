@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 
 <h2>Stats:</h2>
 
-![stats](https://github-readme-stats.vercel.app/api?username=NVTines&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true&card_width=700)
+![stats](https://github-readme-stats.vercel.app/api?username=NVTines&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true)
 <img align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif'>
 
 <h2>Most Using Languages:</h2>
 
-![Most Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NVTines&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true&layout=compact&card_width=700)
+![Most Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NVTines&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true&count_private=true&layout=compact)
 <img align="right" src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/Hi.gif' width='100px'>
 
